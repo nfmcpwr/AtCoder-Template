@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "nfmcpwr",
+    "classifications": [ "Common", "Console" ],
+    "identity": "nfmcpwr.AtCoderTemplate",
+    "name": "AtCoder Template",
+    "shortName": "atcoder",
+    "sourceName":"AtCoderTemplate",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
